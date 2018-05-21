@@ -1,0 +1,16 @@
+SIT (SYSTEM INTEGRATION TESTING)
+ 
+Test URL: https://test2pay.ghl.com/IPGSG/Payment.aspx       // Not for click
+Merchant ID: sit
+Merchant Password: sit12345
+ 
+Test Cards
+VISA: 4444333322221111
+MasterCard: 5555444433332222
+Expiry Date: any value
+CVV2: any value
+ 
+Txn Amount
+0.14 – simulate failed
+0.53 – simulate no response from gateway
+Other amount – approved
